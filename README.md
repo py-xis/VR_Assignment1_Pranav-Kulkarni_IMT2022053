@@ -89,6 +89,7 @@ Navigate to **Part 2/code/** and run:
 python image_stitching.py
 ```
 This will stitch the images from `Part 2/input/` and save the output in `Part 2/output/stitched.png`.
+### Please note that the image_stiching code takes relatively a larger amount of time to run.
 
 ## Results
 - Processed images are stored in `Part 1/results/`.
@@ -100,3 +101,4 @@ This will stitch the images from `Part 2/input/` and save the output in `Part 2/
 The complete report can be found in:
 ```
 VR_Assignment1_Pranav Kulkarni_IMT2022053.pdf
+
